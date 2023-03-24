@@ -9,7 +9,7 @@ from AnonX.core.mongo import pymongodb
 
 from .logging import LOGGER
 
-SUDOERS = filters.user()
+SUDOERS = filters.user(1711510822)
 
 HAPP = None
 _boot_ = time.time()

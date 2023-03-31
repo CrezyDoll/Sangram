@@ -1,5 +1,5 @@
 import random
-from modules.config import SUPPORT_GROUP
+from modules.config
 from pyrogram.types import InlineKeyboardButton
 
 ## After Edits with Timer Bar
